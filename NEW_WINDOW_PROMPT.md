@@ -4,16 +4,17 @@
 
 1. `current-state.md`
 2. `world-rules.md`
-3. `character-yedu.md`
-4. `character-li.md`
-5. `team-party-file.md`
-6. `items-and-skills.md`
-7. `companions.md`
-8. `reality-layer.md`
-9. `progression-system.md`
-10. `combat-rating-and-command-conventions.md`
-11. `run-index.md`
-12. `runs/001-freshman-binding-run.md`
+3. `first-session-setup.md`
+4. `character-player-a.md`
+5. `character-player-b.md`
+6. `team-party-file.md`
+7. `items-and-skills.md`
+8. `companions.md`
+9. `reality-layer.md`
+10. `progression-system.md`
+11. `combat-rating-and-command-conventions.md`
+12. `run-index.md`
+13. `runs/001-freshman-binding-run.md`
 
 ## 主持風格
 
@@ -48,22 +49,18 @@
 
 ## 當前進度
 
-第一個 F 級新手副本已通關。
+這是一份第一次遊玩前的模板。
 
-結果：
+第一次開局時，應先完成：
 
-- 兩位玩家角色全員存活
-- 完成 F 級 HE
-- 合理建立雙人合作默契
-- 取得常駐型副本綁定道具
-
-目前 `current-state.md` 已更新到：
-
-> 第一個新手副本結束後的現實休息期開場。
+- 兩位玩家的姓名設定
+- 兩位玩家彼此關係設定
+- 基礎公開資訊設定
+- 第一個 F 級新手副本的開場
 
 ## 重要長期設定
 
-- 兩位玩家角色持有 `同頁扣環｜雙人副本綁定器`。
+- 第一個 F 級新手副本完成後，可取得 `同頁扣環｜雙人副本綁定器`。
 - 這是副本系統承認的雙人綁定道具。
 - 常駐生效，主要作用是讓兩位玩家角色固定匹配進同一場副本。
 - 它不保證其他臨時隊友配置，也不等於完整小隊鎖定。

@@ -5,20 +5,21 @@ import sys
 ROOT = Path(__file__).resolve().parent
 
 REQUIRED_FILES = {
-    "README.md": ["雙玩家", "夜讀", "黎", "run-index.md"],
+    "README.md": ["雙玩家", "第一次遊玩", "character-player-a.md", "run-index.md"],
     "NEW_WINDOW_PROMPT.md": ["共享資訊", "私有資訊", "雙線敘事", "時間對齊"],
     "world-rules.md": ["白塔", "風聲", "雙玩家", "彈性隊伍"],
     "progression-system.md": ["C 級", "正式戰力評估", "論壇", "市集"],
     "combat-rating-and-command-conventions.md": ["戰力", "指揮", "C 級", "戰力平分"],
-    "current-state.md": ["F", "夜讀", "黎", "副本綁定道具"],
-    "character-yedu.md": ["夜讀", "學長", "由玩家演繹補充", "黎"],
-    "character-li.md": ["黎", "學弟", "由玩家演繹補充", "夜讀"],
-    "team-party-file.md": ["夜讀", "黎", "臨時隊友", "雙線敘事"],
+    "current-state.md": ["第一次遊玩", "副本綁定道具", "雙線敘事", "姓名"],
+    "first-session-setup.md": ["姓名", "關係", "玩家 A", "玩家 B"],
+    "character-player-a.md": ["玩家 A", "第一次遊玩時設定", "由玩家演繹補充"],
+    "character-player-b.md": ["玩家 B", "第一次遊玩時設定", "由玩家演繹補充"],
+    "team-party-file.md": ["玩家 A", "玩家 B", "臨時隊友", "雙線敘事"],
     "items-and-skills.md": ["官方點數", "同頁扣環", "技能", "資源"],
-    "companions.md": ["白塔", "風聲", "臨時隊友", "關係"],
+    "companions.md": ["白塔", "風聲", "臨時隊友", "第一次遊玩時自行設定"],
     "reality-layer.md": ["現實線", "白塔", "論壇", "市場"],
     "run-index.md": ["Run Index", "Completed", "Current"],
-    "runs/001-freshman-binding-run.md": ["F", "夜讀", "黎", "副本綁定道具"],
+    "runs/001-freshman-binding-run.md": ["F", "副本框架", "副本綁定道具", "兩位玩家角色"],
 }
 
 
