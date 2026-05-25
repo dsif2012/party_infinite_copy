@@ -12,18 +12,23 @@
 請優先閱讀：
 
 1. `NEW_WINDOW_PROMPT.md`
-2. `current-state.md`
-3. `world-rules.md`
-4. `first-session-setup.md`
-5. `character-player-a.md`
-6. `character-player-b.md`
-7. `team-party-file.md`
-8. `items-and-skills.md`
-9. `companions.md`
-10. `reality-layer.md`
-11. `progression-system.md`
-12. `combat-rating-and-command-conventions.md`
-13. `run-index.md`
-14. `runs/001-freshman-binding-run.md`
+2. `rules/player-control.md`
+3. `current-state.md`
+4. `world-rules.md`
+5. `first-session-setup.md`
+6. `character-player-a.md`
+7. `character-player-b.md`
+8. `team-party-file.md`
+9. `items-and-skills.md`
+10. `companions.md`
+11. `reality-layer.md`
+12. `progression-system.md`
+13. `combat-rating-and-command-conventions.md`
+14. `run-index.md`
+15. `runs/001-freshman-binding-run.md`
+
+## 多人遊玩規則
+
+本專案支援多人綁定角色進行劇情演繹，所有玩家行動需本人確認。
 
 本 repo 只保存遊戲設定與劇情存檔，不應存放現實個資。

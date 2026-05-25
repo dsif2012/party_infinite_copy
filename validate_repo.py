@@ -5,9 +5,10 @@ import sys
 ROOT = Path(__file__).resolve().parent
 
 REQUIRED_FILES = {
-    "README.md": ["雙玩家", "第一次遊玩", "character-player-a.md", "run-index.md"],
-    "NEW_WINDOW_PROMPT.md": ["共享資訊", "私有資訊", "雙線敘事", "時間對齊"],
-    "world-rules.md": ["白塔", "風聲", "雙玩家", "彈性隊伍"],
+    "README.md": ["雙玩家", "第一次遊玩", "rules/player-control.md", "多人遊玩規則"],
+    "NEW_WINDOW_PROMPT.md": ["共享資訊", "私有資訊", "回合制度", "時間對齊"],
+    "rules/player-control.md": ["角色綁定", "行動控制權", "回合時間制度", "凍結狀態"],
+    "world-rules.md": ["白塔", "風聲", "雙玩家", "回合時間制度"],
     "progression-system.md": ["C 級", "正式戰力評估", "論壇", "市集"],
     "combat-rating-and-command-conventions.md": ["戰力", "指揮", "C 級", "戰力平分"],
     "current-state.md": ["第一次遊玩", "副本綁定道具", "雙線敘事", "姓名"],
@@ -17,7 +18,7 @@ REQUIRED_FILES = {
     "team-party-file.md": ["玩家 A", "玩家 B", "臨時隊友", "雙線敘事"],
     "items-and-skills.md": ["官方點數", "同頁扣環", "技能", "資源"],
     "companions.md": ["白塔", "風聲", "臨時隊友", "第一次遊玩時自行設定"],
-    "reality-layer.md": ["現實線", "白塔", "論壇", "市場"],
+    "reality-layer.md": ["現實線", "白塔", "論壇", "回合制度"],
     "run-index.md": ["Run Index", "Completed", "Current"],
     "runs/001-freshman-binding-run.md": ["F", "副本框架", "副本綁定道具", "兩位玩家角色"],
 }
