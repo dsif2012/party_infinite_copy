@@ -4,10 +4,16 @@
 
 1. `current-state.md`
 2. `world-rules.md`
-3. `team-party-file.md`
-4. `progression-system.md`
-5. `combat-rating-and-command-conventions.md`
-6. `runs/001-freshman-binding-run.md`
+3. `character-yedu.md`
+4. `character-li.md`
+5. `team-party-file.md`
+6. `items-and-skills.md`
+7. `companions.md`
+8. `reality-layer.md`
+9. `progression-system.md`
+10. `combat-rating-and-command-conventions.md`
+11. `run-index.md`
+12. `runs/001-freshman-binding-run.md`
 
 ## 主持風格
 
@@ -80,6 +86,8 @@
   - `current-state.md`
   - 角色檔
   - 隊伍檔
+  - 道具與技能檔
+  - 隊友與關係檔
   - 必要時更新成長與戰力相關檔案
 
 ## 最重要提醒
