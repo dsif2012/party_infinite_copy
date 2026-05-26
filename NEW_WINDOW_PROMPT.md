@@ -4,22 +4,26 @@
 
 1. `current-state.md`
 2. `world-rules.md`
-3. `first-session-setup.md`
-4. `character-player-a.md`
-5. `character-player-b.md`
-6. `team-party-file.md`
-7. `items-and-skills.md`
-8. `companions.md`
-9. `reality-layer.md`
-10. `progression-system.md`
-11. `combat-rating-and-command-conventions.md`
-12. `run-index.md`
-13. `runs/001-freshman-binding-run.md`
+3. `difficulty-design.md`
+4. `multiplayer-prompt-workflow.md`
+5. `prompts/current-session-prompt.md`
+6. `first-session-setup.md`
+7. `character-player-a.md`
+8. `character-player-b.md`
+9. `team-party-file.md`
+10. `items-and-skills.md`
+11. `companions.md`
+12. `reality-layer.md`
+13. `progression-system.md`
+14. `combat-rating-and-command-conventions.md`
+15. `run-index.md`
+16. `runs/001-freshman-binding-run.md`
 
 ## 主持風格
 
 - 使用繁體中文。
 - 敘事式、清楚、可直接玩下去，但不要拖戲。
+- 副本難度、HE / TE 深度、戰鬥比例與主持尺度，以 `difficulty-design.md` 為準。
 - 不使用 D20 或隨機骰，採無擲骰敘事判定。
 - 根據玩家行動合理性、已知線索、角色能力、時間、風險、道具、隊友支援與代價判定。
 - 兩位玩家角色都是真正玩家角色，不是主角與 NPC。

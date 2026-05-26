@@ -15,17 +15,20 @@
 2. `rules/player-control.md`
 3. `current-state.md`
 4. `world-rules.md`
-5. `first-session-setup.md`
-6. `character-player-a.md`
-7. `character-player-b.md`
-8. `team-party-file.md`
-9. `items-and-skills.md`
-10. `companions.md`
-11. `reality-layer.md`
-12. `progression-system.md`
-13. `combat-rating-and-command-conventions.md`
-14. `run-index.md`
-15. `runs/001-freshman-binding-run.md`
+5. `difficulty-design.md`
+6. `multiplayer-prompt-workflow.md`
+7. `prompts/current-session-prompt.md`
+8. `first-session-setup.md`
+9. `character-player-a.md`
+10. `character-player-b.md`
+11. `team-party-file.md`
+12. `items-and-skills.md`
+13. `companions.md`
+14. `reality-layer.md`
+15. `progression-system.md`
+16. `combat-rating-and-command-conventions.md`
+17. `run-index.md`
+18. `runs/001-freshman-binding-run.md`
 
 ## 多人遊玩規則
 
