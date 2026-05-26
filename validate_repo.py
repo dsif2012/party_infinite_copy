@@ -11,7 +11,7 @@ REQUIRED_FILES = {
     "world-rules.md": ["白塔", "風聲", "雙玩家", "回合時間制度"],
     "difficulty-design.md": ["難度設計細節", "HE", "TE", "夜讀當前適配"],
     "multiplayer-prompt-workflow.md": ["多人對話", "GitHub", "current-session-prompt.md", "難度裁切"],
-    "prompts/current-session-prompt.md": ["角色建立", "第一個 F 級副本", "玩家 A", "不要加入"],
+    "prompts/current-session-prompt.md": ["角色建立", "第一個 F 級副本", "玩家 A", "現實局外增強"],
     "progression-system.md": ["C 級", "正式戰力評估", "論壇", "市集"],
     "combat-rating-and-command-conventions.md": ["戰力", "指揮", "C 級", "戰力平分"],
     "current-state.md": ["第一次遊玩", "副本綁定道具", "雙線敘事", "姓名"],
@@ -23,7 +23,7 @@ REQUIRED_FILES = {
     "companions.md": ["白塔", "風聲", "臨時隊友", "第一次遊玩時自行設定"],
     "reality-layer.md": ["現實線", "白塔", "論壇", "回合制度"],
     "run-index.md": ["Run Index", "Completed", "Current"],
-    "runs/001-freshman-binding-run.md": ["F", "副本框架", "副本綁定道具", "兩位玩家角色"],
+    "runs/001-freshman-binding-run.md": ["F", "副本框架", "副本綁定道具", "現實局外增強"],
 }
 
 
